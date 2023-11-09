@@ -7,20 +7,20 @@ export const ALL_CONNECTIONS: {
 } = {
 	"1112023": [
 		{
-			name: "Cubitos Verdes",
-			items: ["German", "Mike", "Slime", "Willyrex"],
+			name: "Medos do richas",
+			items: ["Gustavo Lima", "Elmariana", "Banho", "Touro"],
 		},
 		{
-			name: "Teve cabelo cortado",
-			items: ["Etoiles", "Baghera", "Pac", "Walter Bob"],
+			name: "Ovos mais velhos que ainda possuem vida",
+			items: ["Leonarda", "Chayanne", "Dapper", "Ramon"],
 		},
 		{
-			name: "____ + Roier",
-			items: ["Chef", "Fotógrafo", "Cunhado", "Furry"],
+			name: "Cubitos filiados de sangue",
+			items: ["Forever", "Roier", "Bad Boy Halo", "Ironmouse"],
 		},
 		{
-			name: "Trabalhos de Richarlyson",
-			items: ["Doutor", "Pintor", "Guitarrista", "Cupido"],
+			name: "Fazem parte da federação",
+			items: ["Pato", "Cucurucho", "IV Bag", "Trabalhadores"],
 		},
 	],
 	"2112023": [
